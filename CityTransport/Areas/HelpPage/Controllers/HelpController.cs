@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using CityTransport.Web.Areas.HelpPage.ModelDescriptions;
-using CityTransport.Web.Areas.HelpPage.Models;
+using CityTransport.Areas.HelpPage.ModelDescriptions;
+using CityTransport.Areas.HelpPage.Models;
 
-namespace CityTransport.Web.Areas.HelpPage.Controllers
+namespace CityTransport.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

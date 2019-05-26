@@ -1,6 +1,6 @@
 using System;
 
-namespace CityTransport.Web.Areas.HelpPage.ModelDescriptions
+namespace CityTransport.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

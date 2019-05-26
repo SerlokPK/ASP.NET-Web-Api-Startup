@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace CityTransport.Web
+namespace CityTransport
 {
     public static class WebApiConfig
     {

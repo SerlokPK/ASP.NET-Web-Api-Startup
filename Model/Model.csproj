@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2EDF5974-DEC7-4368-ACBB-F58CA8CCDFF6}</ProjectGuid>
+    <ProjectGuid>{9158E3D2-88A8-420E-AF21-DC7435DC2237}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CityTransport.Service</RootNamespace>
-    <AssemblyName>CityTransport.Service</AssemblyName>
+    <RootNamespace>Model</RootNamespace>
+    <AssemblyName>Model</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,26 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Admin\AdminService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Common\CityTransport.Common.csproj">
-      <Project>{e1baf188-82c0-4f27-86ad-ee589d5a1d58}</Project>
-      <Name>CityTransport.Common</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Interface\CityTransport.Interface.csproj">
-      <Project>{751a86f8-bcec-44cd-bb89-5e7d2b52980a}</Project>
-      <Name>CityTransport.Interface</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Model\CityTransport.Model.csproj">
-      <Project>{9158e3d2-88a8-420e-af21-dc7435dc2237}</Project>
-      <Name>CityTransport.Model</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Repository\CityTransport.Repository.csproj">
-      <Project>{c4be3327-46fc-4db9-8cfb-91ec6074373d}</Project>
-      <Name>CityTransport.Repository</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
