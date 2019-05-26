@@ -1,6 +1,11 @@
-﻿using CityTransport.Interface.Services;
+﻿using Interface.Services;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace CityTransport.Service.Admin
+namespace Service.Admin
 {
     public class AdminService : IAdminService
     {

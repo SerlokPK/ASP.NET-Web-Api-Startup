@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Net.Http.Headers;
 using System.Web.Http.Description;
-using CityTransport.Web.Areas.HelpPage.ModelDescriptions;
+using CityTransport.Areas.HelpPage.ModelDescriptions;
 
-namespace CityTransport.Web.Areas.HelpPage.Models
+namespace CityTransport.Areas.HelpPage.Models
 {
     /// <summary>
     /// The model that represents an API displayed on the help page.

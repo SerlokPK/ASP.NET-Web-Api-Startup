@@ -1,4 +1,4 @@
-namespace CityTransport.Web.Areas.HelpPage.ModelDescriptions
+namespace CityTransport.Areas.HelpPage.ModelDescriptions
 {
     public class EnumValueDescription
     {

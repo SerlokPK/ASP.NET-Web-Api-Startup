@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
-namespace CityTransport.Web.Areas.HelpPage.ModelDescriptions
+namespace CityTransport.Areas.HelpPage.ModelDescriptions
 {
     public class ParameterDescription
     {

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Configuration;
 
-namespace CityTransport.Common
+namespace Common
 {
     public class AppSettings
     {
