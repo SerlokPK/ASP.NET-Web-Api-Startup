@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace CityTransport
+namespace CityTransport.Web
 {
     public class BundleConfig
     {

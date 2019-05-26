@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace CityTransport.Areas.HelpPage
+namespace CityTransport.Web.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

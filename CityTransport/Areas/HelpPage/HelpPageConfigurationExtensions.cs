@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using CityTransport.Areas.HelpPage.ModelDescriptions;
-using CityTransport.Areas.HelpPage.Models;
+using CityTransport.Web.Areas.HelpPage.ModelDescriptions;
+using CityTransport.Web.Areas.HelpPage.Models;
 
-namespace CityTransport.Areas.HelpPage
+namespace CityTransport.Web.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

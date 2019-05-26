@@ -1,13 +1,9 @@
-﻿using Common;
-using Interface.Services;
-using System;
+﻿using CityTransport.Common;
+using CityTransport.Interface.Services;
 using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 
-namespace CityTransport.Controllers
+namespace CityTransport.Web.Controllers
 {
     public class ValuesController : ApiController
     {

@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "CityTransport\Web.csproj", "{951FAF56-B01E-4A63-BFBF-D7BAE08B5641}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityTransport.Web", "CityTransport\CityTransport.Web.csproj", "{951FAF56-B01E-4A63-BFBF-D7BAE08B5641}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{2EDF5974-DEC7-4368-ACBB-F58CA8CCDFF6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityTransport.Service", "Service\CityTransport.Service.csproj", "{2EDF5974-DEC7-4368-ACBB-F58CA8CCDFF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{C4BE3327-46FC-4DB9-8CFB-91EC6074373D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityTransport.Repository", "Repository\CityTransport.Repository.csproj", "{C4BE3327-46FC-4DB9-8CFB-91EC6074373D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{751A86F8-BCEC-44CD-BB89-5E7D2B52980A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityTransport.Interface", "Interface\CityTransport.Interface.csproj", "{751A86F8-BCEC-44CD-BB89-5E7D2B52980A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{E1BAF188-82C0-4F27-86AD-EE589D5A1D58}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityTransport.Common", "Common\CityTransport.Common.csproj", "{E1BAF188-82C0-4F27-86AD-EE589D5A1D58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{9158E3D2-88A8-420E-AF21-DC7435DC2237}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityTransport.Model", "Model\CityTransport.Model.csproj", "{9158E3D2-88A8-420E-AF21-DC7435DC2237}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
