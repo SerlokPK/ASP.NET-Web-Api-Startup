@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace CityTransport.Areas.HelpPage.ModelDescriptions
+namespace CityTransport.Web.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

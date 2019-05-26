@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace CityTransport.Areas.HelpPage.ModelDescriptions
+namespace CityTransport.Web.Areas.HelpPage.ModelDescriptions
 {
     internal static class ModelNameHelper
     {

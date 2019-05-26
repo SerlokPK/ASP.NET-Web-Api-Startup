@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace CityTransport.Areas.HelpPage
+namespace CityTransport.Web.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

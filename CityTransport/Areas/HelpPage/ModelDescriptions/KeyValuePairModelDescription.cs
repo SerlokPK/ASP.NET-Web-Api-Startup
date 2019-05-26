@@ -1,4 +1,4 @@
-namespace CityTransport.Areas.HelpPage.ModelDescriptions
+namespace CityTransport.Web.Areas.HelpPage.ModelDescriptions
 {
     public class KeyValuePairModelDescription : ModelDescription
     {
