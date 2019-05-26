@@ -1,4 +1,5 @@
-﻿using Interface.Services;
+﻿using Common;
+using Interface.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,7 +20,7 @@ namespace CityTransport.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", m_AdminService.TestMethod() };
+            return new string[] { AppSettings.ConnectionString, m_AdminService.TestMethod() };
         }
 
         // GET api/values/5
